@@ -1,4 +1,13 @@
+# Archivos del SO
 .DS_Store
 Thumbs.db
+
+# Configuraciones de Editores de Código
 .idea/
 .vscode/
+*.swp
+
+# Archivos temporales y de logs
+*.log
+tmp/
+scratch/
